@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles/contactos.css">
     <title>Pedidos al Instante</title>
   </head>
-  <body data-spy="scroll" data-target="#navbar" data-offset="57" style="background-color: #F9DBBF; color: white;">   
+  <body data-spy="scroll" data-target="#navbar" data-offset="57" style="background-color: #F0F0AF; color: white;">   
   <?php
   include ("header.php");
   ?>

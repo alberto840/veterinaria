@@ -8,35 +8,9 @@
     <title>Pedidos al Instante</title>
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57" style="background-color: #f0f0af; color: white;">   
-  <nav id="header" class="navbar navbar-expand-lg sticky-top navbar-dark" style="background-color: #9dbcbc; color:
-    white;">
-      <div class="container">
-        <a class="navbar-brand" href="#">
-          <img src="https://mundovets.com/wp-content/uploads/2021/10/Logotipo-para-clinica-veterinaria-scaled.jpg" alt="Pedidos logo" style="width: 190px; height: 70px;">
-          SHOW TICKET
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbar">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.php">Inicio</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="servicios.php">Servicios</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="nuevopedido.php">Programar Cita</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contactos.php">Contactanos</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+  <?php
+    include ("header.php");
+    ?>
     
     <section class="mt-4">
       <div class="container">
@@ -129,21 +103,9 @@
       </div>
     </section>
     
-    <footer id="footer" class="pb-4 pt-4">
-      <div class="container">
-        <div class="row text-center">
-          <div class="col-12 col-lg">
-            <img src="images/facebook.png" alt="instagram" style="width: 30px; height: 30px;"><a href="#">   SHOW TICKET</a>
-          </div> 
-          <div class="col-12 col-lg">
-            <img src="images/twitter.png" alt="instagram" style="width: 30px; height: 30px;"><a href="#"></a>
-          </div>  
-          <div class="col-12 col-lg">
-            <img src="images/instagram.png" alt="instagram" style="width: 30px; height: 30px;"><a href="#"></a>
-          </div>        
-        </div>
-      </div>
-    </footer>
+    <?php
+    include ("footer.php");
+    ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
