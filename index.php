@@ -18,13 +18,15 @@
           <div class="carousel-item active">
             <img class="d-block w-50" src="images/ticket.jpg" alt="Producto 1"  style="width: 100%;">
           </div>
-          <div class="overlay" style="background-image:url('https://mundovets.com/wp-content/uploads/2021/10/Logotipo-para-clinica-veterinaria-scaled.jpg'); width: 100%;">
+          <div class="overlay" style="background-image:url('images/carousel3.jpg'); width: 100%; background-repeat: no-repeat; background-attachment: fixed; background-size: 50% 72%;">
             <div class="container">              
               <div class="row align-items-center">
                 <div class="col-md-6 offset-md-6 text-center text-md-right">
                   <h1>Vet Foca</h1>
                   <p class="d-none d-md-block">
-                  Bienvenido a Tickets Bolivia, estamos felices de que seas uno de nuestros más de 200.000 clientes.Creamos Tickets Bolivia desde hace 8 años para que puedas comprar fácilmente tus voletos para tu evento favorito.
+                  Bienvenido a Vet Foca, Nos alegra tenerte por aca! Eso significa que te preocupa tu peludito.
+                  Acercate a nuestro punto de atencion para asegurarte de que tu mascota este en las perfectas condiciones y siempre este feliz a tu lado. #Mascota_Feliz_Dueño_Feliz
+                  
                   </p>
                 </div>
               </div>
@@ -38,7 +40,7 @@
       <div class="container">
         <div class="row">
           <div class="col text-center text-uppercase">
-            <h2 style="color: #2C0D00;">Nuestra Empresa</h2>
+            <h2 style="color: #2C0D00;">VETERINARIA PROFESIONAL</h2>
             <br>
           </div>
         </div>
@@ -48,7 +50,8 @@
               <div class="card-body">
                 <h5 class="card-title text-center">¿Quienes somos?</h5>
                 <p class="card-text text-justify">
-Servicio de elaboración y venta de entradas en puntos de venta establecidos y de manera on - line, control de ingresos para todo tipo de eventos.</p>
+Somos un equipo formado con profesionales calificados en diversas areas enfocadas en el cuidado de los animales.
+Para controlar todo tipo de situacion que se presente y que este afectando a tu animalito, de esa forma mantenerte tranquilo y lo mas importante de todo que tu mascota este feliz.</p>
               </div>
             </div>
           </div>
@@ -56,7 +59,7 @@ Servicio de elaboración y venta de entradas en puntos de venta establecidos y d
             <div class="card text-white" style="background-color: #6bacbf;">
               <div class="card-body">
                 <h5 class="card-title text-center">¿Qué pretendemos?</h5>
-                <p class="card-text text-justify">La entrada a los mejores eventos en Bolivia están en Puntoticket: conciertos, eventos deportivos, festivales, espectáculos teatrales y mucho más.</p>
+                <p class="card-text text-justify">Cuidar de tu compañero/a de vida. Al mismo tiempo mantener a los dueños tranquilos acerca del estado de su mascota.</p>
               </div>
             </div>
           </div>
@@ -64,9 +67,8 @@ Servicio de elaboración y venta de entradas en puntos de venta establecidos y d
             <div class="card text-white" style="background-color: #6bacbf;">
               <div class="card-body">
                 <h5 class="card-title text-center">¿Cómo queremos hacerlo?</h5>
-                <p class="card-text text-justify">No importa si tus boletos están impresos a color o en blanco y negro. Solo asegúrate que estén impresos correctamente.
-
-Nota: Las impresoras de matriz de punto no imprimen con la calidad suficiente. Por lo que te recomendamos utilizar otra impresora para evitarte problemas al momento de querer entrar al evento.</p>
+                <p class="card-text text-justify">Ofreciendote los mejores servicios para tu peludito, con equipos de primer nivel tanto como equipos de analisis como de quirofano.
+                  Para tener una respuesta mas rapida en cuestion de recepcion de analisis para definir si la mascota requiere o no, una intervencion quirurgica.</p>
               </div>
             </div>
           </div>
